@@ -6,7 +6,7 @@ import { CounterParentComponent } from './counter-parent/counter-parent.componen
 import { Counter1Component } from './counter1/counter1.component';
 import { Counter2Component } from './counter2/counter2.component';
 import { Counter3Component } from './counter3/counter3.component';
-import { CounterService } from "./counter.service";
+import { CounterService } from "./services/counter.service";
 
 @NgModule({
   declarations: [
